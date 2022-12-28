@@ -45,6 +45,7 @@ SID/BNS CAD Library: [https://bit.ly/2VBw69x](https://bit.ly/2VBw69x)  (Redirec
 VEX CAD Discord Server: [https://discord.com/invite/BKV3DJm](https://discord.com/invite/BKV3DJm)
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [7 - Scouting & Competition](/src/md/7_Scouting_Competition.md) | [9 - Final Words](/src/md/9_Final_Words.md)  |

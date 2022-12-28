@@ -171,6 +171,7 @@ I am going to split these tips to communication and other stuff. Communication i
 - Project management may be led by a singular individual, but it takes an entire team to buy into a system to be effective. If you are a PM leader, encourage participation from everyone into the process and ensure that everyone is on board with the system in place.
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [1 - Foreword](/src/md/1_Foreword.md) | [3 - Building](/src/md/3_Building.md) |

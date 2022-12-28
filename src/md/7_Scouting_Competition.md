@@ -26,6 +26,7 @@ Competitions are probably the most fun part of VEX. It is where you get to test 
 # 7.7 - Post-Competition Reflection
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [6 - Notebook](/src/md/6_Notebook.md) | [8 - Other Resources](/src/md/8_Other_Resources.md)   |

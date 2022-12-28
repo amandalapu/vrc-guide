@@ -319,6 +319,7 @@ I cant stress the importance of being patient with this step enough - rushing th
 - Practice staying focused on certain design tasks while also seeing the bigger picture. This will expand your horizons and give you better designs while helping you make fewer errors.
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [2 - Team Organization + Project Management](/src/md/2_Team_Organization_Project_Management.md) | [4 - Electronics](/src/md/4_Electronics.md)  |

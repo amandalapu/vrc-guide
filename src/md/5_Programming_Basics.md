@@ -125,6 +125,7 @@ Github is an excellent way to keep your code online, to maintain versions of you
 I would recommend [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/) as quick start to get up to speed with Git and Github.
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [4 - Electronics](/src/md/4_Electronics.md) | [6 - Notebook](/src/md/6_Notebook.md)   |
