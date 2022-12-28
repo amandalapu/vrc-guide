@@ -29,4 +29,4 @@ Competitions are probably the most fun part of VEX. It is where you get to test 
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [6 - Notebook](/src/md/6_Notebook.md) | [8 - Other Resources](/src/md/8_Other_Resources.md)   |
+| [6 - Notebook](6_Notebook.md) | [8 - Other Resources](8_Other_Resources.md)   |

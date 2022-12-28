@@ -322,4 +322,4 @@ I cant stress the importance of being patient with this step enough - rushing th
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [2 - Team Organization + Project Management](/src/md/2_Team_Organization_Project_Management.md) | [4 - Electronics](/src/md/4_Electronics.md)  |
+| [2 - Team Organization + Project Management](2_Team_Organization_Project_Management.md) | [4 - Electronics](4_Electronics.md)  |

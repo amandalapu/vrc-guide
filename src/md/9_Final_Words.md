@@ -24,4 +24,4 @@ I wish you the best of luck and I know you’ll do great!
 
 | Previous Page |
 | ----------- |
-| [8 - Other Resources](/src/md/8_Other_Resources.md) |
+| [8 - Other Resources](8_Other_Resources.md) |

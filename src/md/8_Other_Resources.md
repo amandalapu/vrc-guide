@@ -48,4 +48,4 @@ VEX CAD Discord Server: [https://discord.com/invite/BKV3DJm](https://discord.com
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [7 - Scouting & Competition](/src/md/7_Scouting_Competition.md) | [9 - Final Words](/src/md/9_Final_Words.md)  |
+| [7 - Scouting & Competition](7_Scouting_Competition.md) | [9 - Final Words](9_Final_Words.md)  |

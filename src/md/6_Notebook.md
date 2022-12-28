@@ -105,4 +105,4 @@ Having renders like these of our regionals robot in Turning Point (2018-2019) wa
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [5 - Programming Basics](/src/md/5_Programming_Basics.md) | [7 - Scouting & Competition](/src/md/7_Scouting_Competition.md)  |
+| [5 - Programming Basics](5_Programming_Basics.md) | [7 - Scouting & Competition](7_Scouting_Competition.md)  |

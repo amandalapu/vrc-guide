@@ -174,4 +174,4 @@ I am going to split these tips to communication and other stuff. Communication i
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [1 - Foreword](/src/md/1_Foreword.md) | [3 - Building](/src/md/3_Building.md) |
+| [1 - Foreword](1_Foreword.md) | [3 - Building](3_Building.md) |

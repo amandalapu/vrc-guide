@@ -64,4 +64,4 @@ For the VEXnet Radio, you want to place it as high as possible and to mount it o
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [3 - Building](/src/md/3_Building.md) | [5 - Programming Basics](/src/md/5_Programming_Basics.md)  |
+| [3 - Building](3_Building.md) | [5 - Programming Basics](5_Programming_Basics.md)  |

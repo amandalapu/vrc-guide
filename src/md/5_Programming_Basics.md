@@ -128,4 +128,4 @@ I would recommend [https://guides.github.com/introduction/git-handbook/](https:/
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [4 - Electronics](/src/md/4_Electronics.md) | [6 - Notebook](/src/md/6_Notebook.md)   |
+| [4 - Electronics](4_Electronics.md) | [6 - Notebook](6_Notebook.md)   |
