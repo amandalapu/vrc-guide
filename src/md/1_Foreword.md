@@ -29,5 +29,5 @@ The existence of such a resource often led me to debate creating a revamped vers
 
 | Previous Page | Next Page |
 | ----------- | ----------- |
-| [Table of Contents](/index.md) | [2 - Team Organization + Project Management](/src/md/2_Team_Organization_Project_Management.md) |
+| [Table of Contents](/index.md) | [2 - Team Organization + Project Management](2_Team_Organization_Project_Management.md) |
 
