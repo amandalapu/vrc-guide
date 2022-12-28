@@ -26,6 +26,7 @@ Since the original version I wrote in 2020, I have met many more insightful indi
 The existence of such a resource often led me to debate creating a revamped version of the guide and to question what role I want this guide to serve. Ultimately, I have come to the conclusion that I want this guide’s focus to be more on the mentality and thought process that goes beyond the particulars of what parts are legal or certain game manual changes. Even though there is a lot of content overlap, maybe there is still value in hearing a different voice on the same topic.
 
 ### Navigation
+
 | Previous Page | Next Page |
 | ----------- | ----------- |
 | [Table of Contents](/index.md) | [2 - Team Organization + Project Management](/src/md/2_Team_Organization_Project_Management.md) |
