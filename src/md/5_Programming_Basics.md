@@ -123,3 +123,8 @@ An excellent example in my opinion would have to be 285R’s code from the 2019-
 Github is an excellent way to keep your code online, to maintain versions of your code and to collaborate with others.
 
 I would recommend [https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/) as quick start to get up to speed with Git and Github.
+
+### Navigation
+| Previous Page | Next Page |
+| ----------- | ----------- |
+| [4 - Electronics](/src/md/4_Electronics.md) | [6 - Notebook](/src/md/6_Notebook.md)   |

@@ -59,3 +59,8 @@ The battery has a significant amount of weight and so it is optimal to place it 
 Use wireless downloading as much as possible for your code since the Brain comes with a very delicate microUSB port. It is much easier to replace the controller than it is to replace the Brain.
 
 For the VEXnet Radio, you want to place it as high as possible and to mount it on rubber links. It is believed that mounting the radio on rubber links helps prevent disconnections.
+
+### Navigation
+| Previous Page | Next Page |
+| ----------- | ----------- |
+| [3 - Building](/src/md/3_Building.md) | [5 - Programming Basics](/src/md/5_Programming_Basics.md)  |

@@ -19,3 +19,8 @@ For me, robotics was a rewarding experience and where I found my second family. 
 I wish you the best of luck and I know you’ll do great!
 
 -Akhil, akkim3@gmail.com
+
+### Navigation
+| Previous Page |
+| ----------- |
+| [8 - Other Resources](/src/md/8_Other_Resources.md) |

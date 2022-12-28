@@ -100,3 +100,8 @@ With CAD you can also annotate dimensions and provide a parts list, which is hel
 Having renders like these of our regionals robot in Turning Point (2018-2019) was a big talking point in our notebook and interview and made us look more polished overall.
 
 **As a final point for CAD: it is not essential but it is one of those things you can use to stand out and is thus highly encouraged.**
+
+### Navigation
+| Previous Page | Next Page |
+| ----------- | ----------- |
+| [5 - Programming Basics](/src/md/5_Programming_Basics.md) | [7 - Scouting & Competition](/src/md/7_Scouting_Competition.md)  |

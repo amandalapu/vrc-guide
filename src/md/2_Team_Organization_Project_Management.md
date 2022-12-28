@@ -169,3 +169,8 @@ I am going to split these tips to communication and other stuff. Communication i
 - The point of having members be working whenever they are willing to is to spread out the load of their tasks throughout the season. The biggest one that this applies to in my experience is programmers while builders are building. My best advice for that is to either have the programmer aid in the building process or to build a dedicated drive base or something for them to develop drive code such as PID, odometry, etc.
 - If you find that you are not reaching your goals, that’s alright. It is also ok to not reach your goals and to compromise, whether that comes to skipping a competition or skipping development of a specific feature. Obviously, I would propose that this is one of your final options if you are not reaching your goals, but make sure you learn and adjust for the next time.
 - Project management may be led by a singular individual, but it takes an entire team to buy into a system to be effective. If you are a PM leader, encourage participation from everyone into the process and ensure that everyone is on board with the system in place.
+
+### Navigation
+| Previous Page | Next Page |
+| ----------- | ----------- |
+| [1 - Foreword](/src/md/1_Foreword.md) | [3 - Building](/src/md/3_Building.md) |
