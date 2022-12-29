@@ -32,7 +32,7 @@ This logic applies to almost everything you do in robotics, whether it be buildi
 
 You never want to lose the final round of the world championships due to your robot being inconsistent (Nothing But Net Finals, Team 1104Z).
 
-![185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.](/vrc_guide/src/assets/3_assets/185A_finals.png)
+![185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.](/vrc-guide/src/assets/3_assets/185A_finals.png)
 
 185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.
 
