@@ -25,7 +25,7 @@ There are several solutions to this problem that I found have helped:
 - Assign team members to work on other simultaneous projects such as notebook or interview or organization
     - This is not ideal for those who wanted to work on the robot but rotating who gets time on robot and who does not is a good compromise
 
-![An example of what the spreadsheet looked like in the Turning Point Season (2018-2019).](src/assets/2_assets/Spreadsheet.png)
+![An example of what the spreadsheet looked like in the Turning Point Season (2018-2019).](/vrc-guide/src/assets/2_assets/Spreadsheet.png)
 
 An example of what the spreadsheet looked like in the Turning Point Season (2018-2019).
 
@@ -49,7 +49,7 @@ It is important to be prompt when sending out the form and that members are spec
 
 This form can be very simple, in my time we had fields for member name, date and what they did that day.
 
-![This is what our process log form looked like during the 2018-2019 and 2019-2020 seasons.](src/assets/2_assets/process_form.png)
+![This is what our process log form looked like during the 2018-2019 and 2019-2020 seasons.](/vrc-guide/src/assets/2_assets/process_form.png)
 
 This is what our process log form looked like during the 2018-2019 and 2019-2020 seasons.
 
@@ -133,7 +133,7 @@ From there, you rinse and repeat.
 
 The best example for an overall season-wide project management implementation model is that of an organization I mentor, Lovejoy High School Robotics (1082) from Lucas, TX (my high school). Notice how in their template varsity timeline how in each project cycle there is sub tasks, and each sub task there is an assignment for people. The biggest thing to note is that programmers are working year round. This reduces the time crunch they have between the build being completed and competition. 
 
-[1082 blueprint varsity timeline.](src/assets/2_assets/1082_Varsity_Team_Timeline.pdf)
+[1082 blueprint varsity timeline.](/vrc-guide/src/assets/2_assets/1082_Varsity_Team_Timeline.pdf)
 
 1082 blueprint varsity timeline. To zoom in and read it you can click on it and press view original
 
@@ -141,9 +141,9 @@ This is a glimpse into how SPARK implemented their project management in Change 
 
 We began each project management cycle with a set of overall goals that we want to complete, and a tentative sub goal outline with milestone deadlines, and lastly, set a date for the next project management update with goals that we will reach for then.
 
-![Example of Goals](src/assets/2_assets/Goals.png)
+![Example of Goals](/vrc-guide/src/assets/2_assets/Goals.png)
 
-![Example of a SPARK project management update](src/assets/2_assets/PM_Update.png)
+![Example of a SPARK project management update](/vrc-guide/src/assets/2_assets/PM_Update.png)
 
 Example of a SPARK project management update
 
