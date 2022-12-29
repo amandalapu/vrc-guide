@@ -28,7 +28,7 @@ The **Vision Sensor** has not been very reliable as you have to calibrate the co
 
 The **Inertial Sensor (IMU)**  shows some promise as it combines both an accelerometer and a gyroscope though be very careful in interpreting the values that are returned from the Inertial Sensor when writing algorithms.
 
-[https://lh4.googleusercontent.com/SqKI544heW7QVBYswaJyv28DVckjvUxfFQur6O4m6UalW2Wsm8KMUN4HWKhaiS1yvm0gHsDThC544SjLi1V2EA5dutFeV0NmdIAE5dwJziBvzz2fVlVBd_k7mHOLLKFqnQA7OTwE](https://lh4.googleusercontent.com/SqKI544heW7QVBYswaJyv28DVckjvUxfFQur6O4m6UalW2Wsm8KMUN4HWKhaiS1yvm0gHsDThC544SjLi1V2EA5dutFeV0NmdIAE5dwJziBvzz2fVlVBd_k7mHOLLKFqnQA7OTwE)
+![Sensors](/vrc-guide/src/assets/4_assets/sensors.png)
 
 ### 4**.1.2 - Motors**
 
@@ -44,11 +44,10 @@ Oftentimes these tiny pieces of metal get worn down. Ideally, you would buy the 
 
 **Four, know the difference between the 3 cartridges.** The standard green one has a top speed of 200 rpm and is the most balanced in terms of torque and speed. The red cartridge has a top speed of 100 rpm but provides much more torque. The blue cartridge has a top speed of 600 rpm but does not have much torque.
 
-### ****
 
 **Five, invest in using “quick swap”.** “Quick swap” is the idea of using zip ties to hold the motor together rather than the standard motor screws. Due to motor screws being easily strippable, constantly taking apart the screws putting back together could mean that one day you cannot take out the screw. When using zip ties, make sure to prevent them from slipping off the motor.
 
-[https://lh6.googleusercontent.com/JmSPorLeFkulLMV_N4UO6wlj0BvH2ggKvZPKP_QugR1Vt9M7HAvhcmgbU-sWeKl8gQZkhZKOwuuTbd1qUfVR6RzC_XPVOBVH2yZkCeC07bavsLVPyHJw8nN2vPkB5iDVGaZlwXK3](https://lh6.googleusercontent.com/JmSPorLeFkulLMV_N4UO6wlj0BvH2ggKvZPKP_QugR1Vt9M7HAvhcmgbU-sWeKl8gQZkhZKOwuuTbd1qUfVR6RzC_XPVOBVH2yZkCeC07bavsLVPyHJw8nN2vPkB5iDVGaZlwXK3)
+![Motors](/vrc-guide/src/assets/4_assets/motor.png)
 
 ### 4**.1.3 - Electronics: Battery, Brain and VEXnet Radio**
 

@@ -32,7 +32,7 @@ This logic applies to almost everything you do in robotics, whether it be buildi
 
 You never want to lose the final round of the world championships due to your robot being inconsistent (Nothing But Net Finals, Team 1104Z).
 
-[185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.](https://lh3.googleusercontent.com/xFVBWdufdCqZtKkCFDujUtc4wS8zFss2UaDHpYgCzCmtUNjEEZj2PxExQS5U-aEXUbWCSEeA1xdoRSuSrjZOQf5TdLOXwVO0gLN1mZ3xouhzUM1_nKnPPOiijmKZtGw_e_G8FKMw)
+![185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.](/vrc-guide/src/assets/3_assets/185A_finals.png)
 
 185A’s lift mechanism broke in the final round of world championships and ended up costing them 50 crucial points and the championship.
 
@@ -66,11 +66,11 @@ There are also two major types of nuts: Keps and Nylock
     - **Recommended for fastening applications**
     - Oftentimes, teams will build their robot out of Keps nuts, then replace them with Nylock nuts before a competition.
 
-[Keps Nut](https://lh5.googleusercontent.com/W22zS4aIOOBNsFYc1gBKWCNXBypxlNduqehhI6gEYQ5mIPfFkPaLu4Uj2NoOQr9WsB1hgmx8NoRlwLLwF3YLGt3xv5TRkCpa8U80lX8UztwF3eVo25f6NxZsY5btqoipSqRqcJol)
+![Keps Nut](/vrc-guide/src/assets/3_assets/keps_nut.jpeg)
 
 Keps Nut
 
-[Nylock Nut](https://lh4.googleusercontent.com/QIcxkWC3GnEkT2BK_k3NrrhC2H4QnYUT-A0kENC2yu7uVFSJPE_-_70ANwPNx1lmf6yIHlGRnfg6PrZu_E49FCg39MIpyy_00BDopxxAQI7yzLguW7cVt0-M7zjtcq_xSEGgT_WN)
+![Nylock Nut](/vrc-guide/src/assets/3_assets/nylock_nut.jpeg)
 
 Nylock Nut
 
@@ -96,13 +96,13 @@ Most of the time, metal is measured in “holes” and a quick conversion to kno
 
 Every 5 holes on a C-Channel there is a small divot in the metal.
 
-[The tiny divots or notches are placed every 5 holes on the C-Channel](https://lh3.googleusercontent.com/gMAphSsMMYcZED78Qvzw-Wi44E-_8vozhM5hcDdFDWyThDdyIODH3oYrir42xyUAGQIMtERW0LInvJ1EdUpqPGZbemdUAVmD42MxorSE30bq1ltaBD-f17ca0YSdkW94GeeTXrTB)
+![The tiny divots or notches are placed every 5 holes on the C-Channel](/vrc-guide/src/assets/3_assets/c-channel.jpeg)
 
 The tiny divots or notches are placed every 5 holes on the C-Channel
 
 Another important thing to know is that fitting a 0.375 in. and a 0.5 in. spacer inside the C-Channel prevents the C-Channel from caving inwards, as shown in the example below. Even though 2 holes is technically 1 inch, the flange of the C-Channel makes it so that only a combined height of 0.875 works.
 
-[https://lh5.googleusercontent.com/KrRpI55J7ujENrR5WwrVC8JVkvvA8ySDYIsGsB_lSVycwzrPPobx40JzIk-odHB4Pn2smQW1l2A5cf5WKyJHMy8ialm5Zta2NRuQZfOQafKFw_uYwP2kL8ClwYxRqDzDYthANd5A](https://lh5.googleusercontent.com/KrRpI55J7ujENrR5WwrVC8JVkvvA8ySDYIsGsB_lSVycwzrPPobx40JzIk-odHB4Pn2smQW1l2A5cf5WKyJHMy8ialm5Zta2NRuQZfOQafKFw_uYwP2kL8ClwYxRqDzDYthANd5A)
+![C-Channel Interior Spacing](/vrc-guide/src/assets/3_assets/c_channel_spacer.png)
 
 ### **3.2.3 - Standoffs**
 
@@ -124,7 +124,7 @@ You can also mount standoffs on a shaft collar or a high strength clamping colla
 
 When trying to screw through a standoff and into a nut, I find it helpful to loosen the screw in the standoff just a little bit so that you can screw in both the nut and screw in one go. It is a bit difficult to describe via text but once you figure it out by trial, it is relatively easy.
 
-[https://lh4.googleusercontent.com/1Sk9ry2Rgj_bVL7w55cScskHxROCAO9KiovOF4flxC0padztsQHbaeeUPZhZ3hNCI7Iv9a1-upT7X3jMziSP82Pdmy8L7KoC_SXUUssf31blboCN-Zy4boH6L-VtGZTmAo_LYjzQ](https://lh4.googleusercontent.com/1Sk9ry2Rgj_bVL7w55cScskHxROCAO9KiovOF4flxC0padztsQHbaeeUPZhZ3hNCI7Iv9a1-upT7X3jMziSP82Pdmy8L7KoC_SXUUssf31blboCN-Zy4boH6L-VtGZTmAo_LYjzQ)
+![Standoff shaft collar](/vrc-guide/src/assets/3_assets/standoff_shaft_collar.png)
 
 You can also combine standoffs with each other to make even longer standoffs using a 1 inch. standoff coupler. Be cautious with this as the longer you go the more unstable the standoffs may become without the proper precautions.
 
@@ -138,11 +138,11 @@ There are a few best practices when it comes to bearing flats to make sure that 
 
 First off: there are 3 holes in the bearing flat and you want to be using two of them to attach the bearing flat as shown below. **Mounting the bearing on both sides and leaving the center hole for the joint is ideal though the other setups are also valid although significantly worse.**
 
-[https://lh5.googleusercontent.com/A_fafinRBkIC7JSS382s_4Tr44xnVd_voowXAWyYjMy9qmlA4YRyKDswlVALNiqxdRdIUg2TQhZiK7Ynm8odTDLzI1USi7Qg0ACvglDbYCc8y-IoHz6F5BWvsthnqAUVk6jck4Zy](https://lh5.googleusercontent.com/A_fafinRBkIC7JSS382s_4Tr44xnVd_voowXAWyYjMy9qmlA4YRyKDswlVALNiqxdRdIUg2TQhZiK7Ynm8odTDLzI1USi7Qg0ACvglDbYCc8y-IoHz6F5BWvsthnqAUVk6jck4Zy)
+![Ideal Bearing Configurations](/vrc-guide/src/assets/3_assets/bearing_ideal.png)
 
 The most important mistake I have seen is not making sure the bearing “snaps” into the C-Channel holes. Bearings have small divots on the back side as shown here.
 
-[https://lh6.googleusercontent.com/dSgMxCOGJKmIKwOdCJkJDfQvSm0Eo6kbczS_KpPeD4uMB7sm-lp_JCUxjh9EKGrho8t4HrmkN0-qzL6HEkXtMyrFadIH9ZjpqKA3rleAnF1dBhKnnkmYl2Ek4UKhEd8iQjeyL-Z5](https://lh6.googleusercontent.com/dSgMxCOGJKmIKwOdCJkJDfQvSm0Eo6kbczS_KpPeD4uMB7sm-lp_JCUxjh9EKGrho8t4HrmkN0-qzL6HEkXtMyrFadIH9ZjpqKA3rleAnF1dBhKnnkmYl2Ek4UKhEd8iQjeyL-Z5)
+![Bearing Divots](/vrc-guide/src/assets/3_assets/bearing_divot.png)
 
 There is also one final thing that must be noted about bearing flats. You need to shave down the bearing a little bit when placing it on holes that are next to the flange.
 
@@ -162,13 +162,13 @@ Always make sure your axles are straight (this is done by placing it on a flat s
 
 They are very simple to make: you need two bearings on each end, an axle and shaft collars on both ends to secure the axle from falling out.
 
-[https://lh6.googleusercontent.com/YPSuxYmQhaNo05eNCcWGhEqTAa2-eia1BkmfB5owDbzsf9aLXJSvjsdoSDbQEKBBp5RJeWTKf6eZ0US31R_fS_GlgKDoXlVXVhL3B9pSRXSxY9oa5a-K4RalwWCujyOSTUb4HtWI](https://lh6.googleusercontent.com/YPSuxYmQhaNo05eNCcWGhEqTAa2-eia1BkmfB5owDbzsf9aLXJSvjsdoSDbQEKBBp5RJeWTKf6eZ0US31R_fS_GlgKDoXlVXVhL3B9pSRXSxY9oa5a-K4RalwWCujyOSTUb4HtWI)
+![Axle Joint](/vrc-guide/src/assets/3_assets/axle_joint.png)
 
 **Screw Joints** are a little bit more complicated but offer lower friction and slop but are tricky to optimize how tight the nut at the end is versus making it too loose.
 
 Most of the time for a screw joint you only need a bearing on the other end. You want the keps nut to be tight and the nylock at the end loose yet secure enough. Make sure that are beings on both sides of the joint.
 
-[https://lh5.googleusercontent.com/RrRkFcy-UHcwnznZxOEJo15O6lTs-z9-I3Rrmx_IYeusEz9P1xOP0jOwHHzmAP1rqcFovukhnIES0gyit3SdVdZLKH8VX8uBalaX5OXTOVWffYveF8_D0M0ptvjqibFQsCIxr3_Q](https://lh5.googleusercontent.com/RrRkFcy-UHcwnznZxOEJo15O6lTs-z9-I3Rrmx_IYeusEz9P1xOP0jOwHHzmAP1rqcFovukhnIES0gyit3SdVdZLKH8VX8uBalaX5OXTOVWffYveF8_D0M0ptvjqibFQsCIxr3_Q)
+![Screw Joint](/vrc-guide/src/assets/3_assets/screw_joint.png)
 
 ### **3.2.6 - Chain and Sprockets**
 
@@ -176,7 +176,7 @@ Most of the chain and sprockets you will be using are actually from the High Str
 
 There are the following sprocket sizes, 6T, 12T, 15T (Grey), 18T, 24T and 30T and several varieties of chain as shown below.
 
-[https://lh4.googleusercontent.com/PlS_PSO1INepAS4ME2dS1R2dp7uiVYFyuA0amoxODE9tVRTmeRPRPe-oKXLMurZ82acySraoif2AKi04wGlHPLCdfknyyTFfDGxkkQ1D_BL-9XtSa2ilz-C7FvodwMDIEC6LKp-b](https://lh4.googleusercontent.com/PlS_PSO1INepAS4ME2dS1R2dp7uiVYFyuA0amoxODE9tVRTmeRPRPe-oKXLMurZ82acySraoif2AKi04wGlHPLCdfknyyTFfDGxkkQ1D_BL-9XtSa2ilz-C7FvodwMDIEC6LKp-b)
+![Sprocket and Chain](/vrc-guide/src/assets/3_assets/sprocket_chain.png)
 
 There are a few things to keep in mind when working with chain and sprockets:
 
@@ -200,7 +200,7 @@ The VEX shoulder screws require a 0.125 in. spacer to be placed between the  sc
 
 For applications such as drivetrains and mechanisms where you need minimal friction, you should use shoulder screws to ensure alignment.
 
-[https://lh5.googleusercontent.com/5Y2zG1k1xLrkTERX4cdOxQS8a19niwU934AiKBwWgNlT8aebQBx2s1AFjfPLN97D1tw5KvblIRo0_RGqUcbsUkS5aDZfvX0ThEW61ZaklIJ94_zXknqtHkDqufIf9xcPUBijZvIO](https://lh5.googleusercontent.com/5Y2zG1k1xLrkTERX4cdOxQS8a19niwU934AiKBwWgNlT8aebQBx2s1AFjfPLN97D1tw5KvblIRo0_RGqUcbsUkS5aDZfvX0ThEW61ZaklIJ94_zXknqtHkDqufIf9xcPUBijZvIO)
+![Shoulder Screw Assembly](/vrc-guide/src/assets/3_assets/shoulder_screws.png)
 
 ### **3.2.8 - Pneumatics**
 
@@ -238,7 +238,7 @@ Cross bracing is an extension of this idea with two diagonals forming an X. Cros
 
 Here is an example of diagonal bracing and cross bracing from the 62A CAD model created by Zach from 929U
 
-[https://lh5.googleusercontent.com/D7sfcfvNoi3H3hayNBY7VEeqRZz99vPUjPjQ_TPlFjEBfgkJ-AqJpMlET0FVHJbagG5QrFfkCR4WEZgXkviDjZoST-Ltf-glYO-XF-cA3DR_0ZPob74NpSmAmC2hsweq25Q_6_VH](https://lh5.googleusercontent.com/D7sfcfvNoi3H3hayNBY7VEeqRZz99vPUjPjQ_TPlFjEBfgkJ-AqJpMlET0FVHJbagG5QrFfkCR4WEZgXkviDjZoST-Ltf-glYO-XF-cA3DR_0ZPob74NpSmAmC2hsweq25Q_6_VH)
+![62A CAD Model](/vrc-guide/src/assets/3_assets/62A_cad.png)
 
 ### 3**.3.2 - Reducing Friction**
 

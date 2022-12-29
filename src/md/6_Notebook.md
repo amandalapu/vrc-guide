@@ -26,7 +26,7 @@ There are a few principles to keep in mind with the notebook.
 
 Here is an example of one of our notebook pages from the 2019-2020 season.
 
-[https://lh4.googleusercontent.com/jc5kUalc2IP5L49rIJ65eSTnyUrxIZDDefT8bS_LBesNEM7-DCQbSa0_V40iZYjDnSL809gxEF3GdkxDdTiD-SaFrToRsTIiz70roTqqgv9exYLKvYd5YY8aHzwA08MfSrR8FI6W](https://lh4.googleusercontent.com/jc5kUalc2IP5L49rIJ65eSTnyUrxIZDDefT8bS_LBesNEM7-DCQbSa0_V40iZYjDnSL809gxEF3GdkxDdTiD-SaFrToRsTIiz70roTqqgv9exYLKvYd5YY8aHzwA08MfSrR8FI6W)
+![2019 Notebook Sample Page](/vrc-guide/src/assets/6_assets/2019-nb-page.png)
 
 ### 6**.1.2: Interview**
 
@@ -68,34 +68,34 @@ Quick-Start Guide to CAD:
 
 You should see this
 
-[https://lh5.googleusercontent.com/MZoo-YubHOK6LSaOiDDUEo5o8W4n40dz3hezGDBGzHehXjuQNNfRAaozGMyXYGpYuk3PHcBGGuWFVwkFW_rsuJljVuH5DS4LUwb2G2njQAx3Nij7cDOlVDGMQjeFsEw_WYIuBoQL](https://lh5.googleusercontent.com/MZoo-YubHOK6LSaOiDDUEo5o8W4n40dz3hezGDBGzHehXjuQNNfRAaozGMyXYGpYuk3PHcBGGuWFVwkFW_rsuJljVuH5DS4LUwb2G2njQAx3Nij7cDOlVDGMQjeFsEw_WYIuBoQL)
+![CAD 1](/vrc-guide/src/assets/6_assets/CAD_1.png)
 
 1. **In the top corner, you should see 'File > Manage', Click on 'Projects'**
 
-[https://lh3.googleusercontent.com/KZV0y-VAON6CnlItW1H38xYLL9qi-FKVf36LI8AzigHblt7GfhGNQauTCw7X_g12rrr-Wa3IVf4_r7UF-zLcJnQ7BOIgpBdx_KdpZudrqEQTo6yZpGQCRmhz6WAbp7J79HAwetOl](https://lh3.googleusercontent.com/KZV0y-VAON6CnlItW1H38xYLL9qi-FKVf36LI8AzigHblt7GfhGNQauTCw7X_g12rrr-Wa3IVf4_r7UF-zLcJnQ7BOIgpBdx_KdpZudrqEQTo6yZpGQCRmhz6WAbp7J79HAwetOl)
+![CAD 2](/vrc-guide/src/assets/6_assets/CAD_2.png)
 
 1. **Click 'New' and then 'Next'**
 
-[https://lh3.googleusercontent.com/fAHAh39RmA-ybPiodQBK2n5fe6VxxZg_yjVVQmjQnX3ZiegnoG8yCN55ZqH28_WnjiZEhe7ukDWysVEu3GVq6DN2ThKIx8N-LUnpvEcmlsekSP5qDquAo7wm8fEJI-tIgRhLLrqh](https://lh3.googleusercontent.com/fAHAh39RmA-ybPiodQBK2n5fe6VxxZg_yjVVQmjQnX3ZiegnoG8yCN55ZqH28_WnjiZEhe7ukDWysVEu3GVq6DN2ThKIx8N-LUnpvEcmlsekSP5qDquAo7wm8fEJI-tIgRhLLrqh)
+![CAD 3](/vrc-guide/src/assets/6_assets/CAD_3.png)
 
 1. **You should see this screen now**
 
-[https://lh5.googleusercontent.com/mN_miFChSo2xf6-gTzJmqXDdSbnJ0aLJMPFoXgB7hFHL7bqTWJtEx_fv69PZeRtlCmmZHJJQ7xpdvIcVzt6ETYj1JZzHzIL-T2d61NxrXolhqlOHBpKi2Raq6bZ85Ube5-UJO43M](https://lh5.googleusercontent.com/mN_miFChSo2xf6-gTzJmqXDdSbnJ0aLJMPFoXgB7hFHL7bqTWJtEx_fv69PZeRtlCmmZHJJQ7xpdvIcVzt6ETYj1JZzHzIL-T2d61NxrXolhqlOHBpKi2Raq6bZ85Ube5-UJO43M)
+![CAD 4](/vrc-guide/src/assets/6_assets/CAD_4.png)
 
 1. **Specify a name, it does not matter exactly what it is**
 2. **Change the Filepath to as high up as possible but still within your user folder, for example C:\Users\akhil_ and then hit 'Finish'**
 
-[https://lh5.googleusercontent.com/gx95bcHE9Kkgyge2GJ1nGIbxswGKt8eUCF31hkbQI4JOWp3q98CJS6JA9Ukq0tcbaad1sl6LzyPeHeJU4geIaGulyChKpqYoMvn5naDPUcd0gEJ6B6aLoUHPzjM_cRbcAgJQch_H](https://lh5.googleusercontent.com/gx95bcHE9Kkgyge2GJ1nGIbxswGKt8eUCF31hkbQI4JOWp3q98CJS6JA9Ukq0tcbaad1sl6LzyPeHeJU4geIaGulyChKpqYoMvn5naDPUcd0gEJ6B6aLoUHPzjM_cRbcAgJQch_H)
+![CAD 5](/vrc-guide/src/assets/6_assets/CAD_5.png)
 
 The library provided uses imates (the little white dots that appear when you press “Alt” that you can use to drag and drop pieces together) which while are not the best, make assembling robots really easy.
 
 CAD can be useful for testing designs but in the context of VEX it is more useful for extra points in notebook and judges interview. This comes from being able to make renders and drawings like the ones below to use in your notebook and presentation materials:
 
-[https://lh5.googleusercontent.com/QcikYUpm8aCknv9UushwZDRXs0nQKJVQkeXsUUdpJYBRelvvzpszo438gKZnBQKZWadri12aMc6Tmu1Zqw1BI_VRxGeBhugOmh8r0_MIiDsDP0BVZgRYO6hXurpD7_1j-GSWL8RN](https://lh5.googleusercontent.com/QcikYUpm8aCknv9UushwZDRXs0nQKJVQkeXsUUdpJYBRelvvzpszo438gKZnBQKZWadri12aMc6Tmu1Zqw1BI_VRxGeBhugOmh8r0_MIiDsDP0BVZgRYO6hXurpD7_1j-GSWL8RN)
+![Schematic](/vrc-guide/src/assets/6_assets/schematic.png)
 
 With CAD you can also annotate dimensions and provide a parts list, which is helpful in detailing how to build your design.
 
-[https://lh3.googleusercontent.com/nOIKV7OtW_O7HKOpqxCKymyCmOXhWbFBqmTgMTFpnLU2tyed4pZxUyu1IRkzGfJ2a8RrAE9pDXcXL1MQ-rNDhG_vVZp9wzEbnfRELhN9QUbNBwzgVhVNUZyYhCrp11ELsYA_VF4s](https://lh3.googleusercontent.com/nOIKV7OtW_O7HKOpqxCKymyCmOXhWbFBqmTgMTFpnLU2tyed4pZxUyu1IRkzGfJ2a8RrAE9pDXcXL1MQ-rNDhG_vVZp9wzEbnfRELhN9QUbNBwzgVhVNUZyYhCrp11ELsYA_VF4s)
+![Render](/vrc-guide/src/assets/6_assets/render.png)
 
 Having renders like these of our regionals robot in Turning Point (2018-2019) was a big talking point in our notebook and interview and made us look more polished overall.
 
