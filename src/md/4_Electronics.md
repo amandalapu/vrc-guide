@@ -48,7 +48,7 @@ Oftentimes these tiny pieces of metal get worn down. Ideally, you would buy the 
 
 **Five, invest in using “quick swap”.** “Quick swap” is the idea of using zip ties to hold the motor together rather than the standard motor screws. Due to motor screws being easily strippable, constantly taking apart the screws putting back together could mean that one day you cannot take out the screw. When using zip ties, make sure to prevent them from slipping off the motor.
 
-![Motors](/vrc-guide/src/assets/4_assets/motors.png)
+![Motors](/vrc-guide/src/assets/4_assets/motor.png)
 
 ### 4**.1.3 - Electronics: Battery, Brain and VEXnet Radio**
 
