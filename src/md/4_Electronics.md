@@ -44,7 +44,6 @@ Oftentimes these tiny pieces of metal get worn down. Ideally, you would buy the 
 
 **Four, know the difference between the 3 cartridges.** The standard green one has a top speed of 200 rpm and is the most balanced in terms of torque and speed. The red cartridge has a top speed of 100 rpm but provides much more torque. The blue cartridge has a top speed of 600 rpm but does not have much torque.
 
-### ****
 
 **Five, invest in using “quick swap”.** “Quick swap” is the idea of using zip ties to hold the motor together rather than the standard motor screws. Due to motor screws being easily strippable, constantly taking apart the screws putting back together could mean that one day you cannot take out the screw. When using zip ties, make sure to prevent them from slipping off the motor.
 
